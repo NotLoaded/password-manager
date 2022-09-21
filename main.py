@@ -13,7 +13,7 @@ def start_menu():
     start_choice = "0"
     print("")
     print("----------------------------------------------------------------")
-    print(Fore.LIGHTGREEN_EX + "Welcome to your password manager! v0.69" + Fore.WHITE)
+    print(Fore.LIGH.TGREEN_EX + "Welcome to your password manager! v0.69" + Fore.WHITE)
     print("----------------------------------------------------------------")
     print("")
     print(Fore.LIGHTGREEN_EX + "Options:" + Fore.WHITE)
